@@ -1,0 +1,10 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+#prev-searches {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
